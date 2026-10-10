@@ -15,7 +15,7 @@
 | Product | What it does | Built with |
 |---|---|---|
 | **[Posmist](https://posmist.com)** | Multi-tenant cloud POS and back office for retail and convenience stores: offline-first web POS, inventory, customer accounts, e-invoicing, and integrated payment terminals on Android. | .NET · PostgreSQL · Redis Streams · Next.js |
-| **[TekelPro](https://app.tekelpro.com)** | White-label edition of Posmist for tobacco and liquor shops, shipped on the web, Windows (Microsoft Store) and mobile. | Posmist platform |
+| **[TekelPro](https://tekelpro.com)** | White-label edition of Posmist for tobacco and liquor shops, shipped on the web, Windows (Microsoft Store) and mobile. | Posmist platform |
 | **[GastroMist](https://gastromist.com)** | Food-service platform covering ordering, recipes, nutrition data and electronic shelf labels, built as microservices. | C# · TypeScript · RabbitMQ |
 | **[WAM](https://wamdesk.com)** | Web Asset Manager: one screen for domains, SSL, uptime, DNS, tech stack, Cloudflare, deployments and backups across hundreds of websites. | .NET · PostgreSQL · Next.js |
 | **ESL Cloud** | Vendor-independent updates for e-ink electronic shelf labels over WebSocket, with a browser-based label designer. | Node.js · Next.js |
